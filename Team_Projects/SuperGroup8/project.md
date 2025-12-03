@@ -44,5 +44,4 @@ The dashboard identifies where digital and AI job demand is rising, where supply
 
 
 ## Links:
-
 SuperGroup8 - Demand & supply in digitalAI jobs: https://youtu.be/PLBH9zlmcpY
