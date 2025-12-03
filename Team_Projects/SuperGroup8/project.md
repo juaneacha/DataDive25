@@ -22,7 +22,13 @@ Examples:
 - Yibralem Tesfaye
 - Sandra Tombe
 - Mark Quispe
-- Fulsundar Vishal
+- Fulsundar Visha
+- Arunkkumar Karthikeyan
+- Etsegenet Hadgu
+- Sapiens Ndatabaye
+- Joy Happy
+- Lincoln Chanakira
+- Edward Ghafari
 
 # Jobs and Youth: Challenge 8
 
