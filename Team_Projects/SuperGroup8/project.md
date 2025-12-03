@@ -1,11 +1,10 @@
 # SuperGroup8
-
-This is a sample team project that demonstrates how to structure your team's work in the DataDive repository.
+SuperGroup8 created an interactive data dashboard to help users better understand how AI is affecting job growth accross the world.
 
 ## Overview
-Add your team's high level executive summary / abstract in this section
-Examples: 
+Over 1.2 billion young people will enter the labor force by 2030—most in developing economies. The AI revolution offers enormous potential to create new jobs, expand access, and boost innovation.
 
+To help understand these changes, group 8 built an interactive dashboard that identifies where digital and AI job demand is rising, where supply is lagging, and which groups are being left behind. It allows users to navigate multiple datasets including the World Bank’s Global Labor Database and the JOIN Benchmarking Tool. 
 
 ## Team Members
 
@@ -35,7 +34,6 @@ Examples:
 See https://www.dc2.org/datadive for details on the challenge areas. Specify which challenge category your team is addressing.
 
 
-
 ## Project Description
 
 Around the world, over 1.2 billion young people will enter the labor force by 2030—most in developing economies where work remains informal, low-productivity, and highly vulnerable to disruption. Digitalization offers enormous potential to create new jobs, expand access, and boost innovation.
@@ -45,7 +43,6 @@ To help countries navigate this transition, Group 8 built an interactive dashboa
 The dashboard identifies where digital and AI job demand is rising, where supply is lagging, and which groups are being left behind. With this insight, policymakers and development teams can design targeted upskilling programs, strengthen education-to-employment pathways, and help ensure productive jobs for all.
 
 
-
 ## Links:
 
-https://youtu.be/PLBH9zlmcpY
+SuperGroup8 - Demand & supply in digitalAI jobs: https://youtu.be/PLBH9zlmcpY
