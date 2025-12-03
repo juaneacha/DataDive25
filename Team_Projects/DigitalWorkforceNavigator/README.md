@@ -5,3 +5,5 @@ Challenge 8: Demand & supply in digital/AI jobs: understanding supply and demand
 Here is the dashboard link:
 https://waterinag.github.io/DWN/
 
+Here is the full code:
+https://github.com/waterinag/DWN
