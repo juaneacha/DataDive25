@@ -14,7 +14,7 @@ Some datasets required for Challenge 4 are not easily accessible via public APIs
 *   **Alternative**: Use the "Indicator Descriptions" to find summary data if microdata is too complex.
 *   **File to save**: `WBES_Summary.csv`.
 
-## 3. ILO Labor Force Statistics
-*   **URL**: [https://ilostat.ilo.org/data/](https://ilostat.ilo.org/data/)
-*   **Action**: Search for "Employment by sector and sex".
-*   **File to save**: `ILO_Employment_Sector_Sex.csv`.
+## 3. ILO Labor Force Statistics (via World Bank WDI)
+*   **Female Labor Force Participation**: [Download CSV](https://api.worldbank.org/v2/en/indicator/SL.TLF.CACT.FE.ZS?downloadformat=csv)
+*   **Female Unemployment**: [Download CSV](https://api.worldbank.org/v2/en/indicator/SL.UEM.TOTL.FE.ZS?downloadformat=csv)
+*   **Action**: Click the links above to download the ZIP files. Extract them and place the CSVs in `data/`.
