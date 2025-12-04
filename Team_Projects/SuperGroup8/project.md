@@ -43,6 +43,6 @@ The dashboard identifies where digital and AI job demand is rising, where supply
 
 
 ## Links:
-View dashboard: https://challenge-two-chi.vercel.app
+View dashboard: [https://challenge-two-chi.vercel.app](https://challenge-two-chi.vercel.app)
 
 [Video: SuperGroup8 - Demand & supply in digitalAI jobs](https://youtu.be/PLBH9zlmcpY)
